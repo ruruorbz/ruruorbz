@@ -1,24 +1,28 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Rowel Orbaneja — Senior Software Engineer and Technical Leader with more than eight years of experience across mobile, web, backend, and cloud systems" width="100%" />
+  <img src="assets/header.svg" alt="Rowel Orbaneja - senior software engineer, technical leader, and builder" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://orbanejarowel.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-2A95EC?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore Rowel Orbaneja's portfolio" /></a>
+  <strong>Product-minded engineering, from first idea to production.</strong><br />
+  <sub>Mobile &nbsp;&bull;&nbsp; Web &nbsp;&bull;&nbsp; Backend &nbsp;&bull;&nbsp; Cloud &nbsp;&bull;&nbsp; Technical leadership</sub>
 </p>
 
-<p align="center">
-  I build and lead software across mobile, web, backend, and cloud—from early architecture to dependable production systems.
-</p>
+<br />
 
-## `01 / About`
+## A little about me
 
-I’m a senior software engineer, technical leader, and startup co-founder with **8+ years of experience**. As **CTO & Co-Founder of Heltsync**, I guide the technical direction of a healthcare platform across application development, backend architecture, infrastructure, delivery, and security.
+I'm **Rowel Orbaneja**, a senior software engineer, technical leader, and startup co-founder with **8+ years of experience** building software across the stack.
 
-I work at the intersection of product and engineering, turning real requirements into systems that teams can confidently build, ship, and maintain.
+As **CTO & Co-Founder of Heltsync**, I guide the technical direction of a healthcare platform, from product and application architecture to infrastructure, delivery, and security. I enjoy the work between the obvious layers: clarifying the problem, choosing sensible tradeoffs, and helping a team turn a good idea into a dependable product.
 
-## `02 / Core stack`
+> **What matters to me:** software that feels clear to the people using it, stays calm under pressure, and remains understandable to the team maintaining it.
 
-<h4>Languages</h4>
+<br />
+
+## Tools I build with
+
+<sub><strong>LANGUAGES</strong></sub>
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000" alt="JavaScript" />
@@ -27,84 +31,114 @@ I work at the intersection of product and engineering, turning real requirements
   <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&amp;logo=googleappsscript&amp;logoColor=white" alt="Google Apps Script" />
 </p>
 
-<h4>Mobile development</h4>
+<sub><strong>MOBILE &amp; PRODUCT EXPERIENCE</strong></sub>
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" />
-</p>
-
-<h4>Frontend development</h4>
-<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Liquid" />
 </p>
 
-<h4>Backend &amp; APIs</h4>
+<sub><strong>BACKEND &amp; DATA</strong></sub>
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
-  <img src="https://img.shields.io/badge/REST_APIs-0A2A52?style=for-the-badge" alt="REST APIs" />
-</p>
-
-<h4>Databases &amp; services</h4>
-<p>
+  <img src="https://img.shields.io/badge/REST_APIs-0B1A2B?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=000000" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize" />
 </p>
 
-<h4>Cloud, DevOps &amp; tools</h4>
+<sub><strong>CLOUD, DELIVERY &amp; COMMERCE</strong></sub>
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&amp;logo=shopify&amp;logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
 </p>
 
-## `03 / Featured work`
+<details>
+  <summary><strong>More tools I work with</strong></summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize" />
+    <img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&amp;logo=shopify&amp;logoColor=white" alt="Liquid" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&amp;logo=jest&amp;logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&amp;logo=bitbucket&amp;logoColor=white" alt="Bitbucket" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&amp;logo=trello&amp;logoColor=white" alt="Trello" />
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce" />
+  </p>
+</details>
+
+<br />
+
+## Selected work
 
 <table>
   <tr>
-    <td width="50%" valign="top"><strong>Heltsync</strong><br/><sub>Healthcare and veterinary services for consultations, prescriptions, medication planning, and medical records.</sub></td>
-    <td width="50%" valign="top"><strong>NuLes</strong><br/><sub>Driving education software for lessons, learner progress, payments, and communication.</sub></td>
+    <td width="50%" valign="top">
+      <h3>Heltsync</h3>
+      <p><strong>Connected healthcare operations</strong></p>
+      <p>Consultations, prescriptions, medication planning, and medical records for healthcare and veterinary services.</p>
+      <sub>PLATFORM &nbsp;&bull;&nbsp; HEALTHCARE &nbsp;&bull;&nbsp; CLOUD</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NuLes</h3>
+      <p><strong>Driving education, organized</strong></p>
+      <p>Lessons, learner progress, payments, and communication brought into a single operational workflow.</p>
+      <sub>EDTECH &nbsp;&bull;&nbsp; OPERATIONS &nbsp;&bull;&nbsp; PAYMENTS</sub>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><strong>Furzee</strong><br/><sub>A Shopify storefront for discovering and purchasing pet products, accessories, and supplies.</sub></td>
-    <td width="50%" valign="top"><strong>Scoliosis Philippines</strong><br/><sub>A member app for resources, registration, advocacy, awareness, and community support.</sub></td>
+    <td width="50%" valign="top">
+      <h3>Furzee</h3>
+      <p><strong>A focused pet-commerce experience</strong></p>
+      <p>A Shopify storefront for discovering and purchasing pet products, accessories, and everyday supplies.</p>
+      <sub>SHOPIFY &nbsp;&bull;&nbsp; COMMERCE &nbsp;&bull;&nbsp; UX</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Scoliosis Philippines</h3>
+      <p><strong>Technology for community support</strong></p>
+      <p>Resources, member registration, advocacy, awareness, and connection for a mission-driven community.</p>
+      <sub>COMMUNITY &nbsp;&bull;&nbsp; ADVOCACY &nbsp;&bull;&nbsp; MOBILE</sub>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://orbanejarowel.vercel.app/"><img src="https://img.shields.io/badge/View_More_in_My_Portfolio-2A95EC?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View more work in Rowel Orbaneja's portfolio" /></a>
+  <a href="https://orbanejarowel.vercel.app/"><img src="https://img.shields.io/badge/Explore_the_full_portfolio-F18F6D?style=for-the-badge&amp;logo=vercel&amp;logoColor=07111F" alt="Explore Rowel Orbaneja's full portfolio" /></a>
 </p>
 
-## `04 / Connect`
+<br />
+
+## Let's connect
 
 <p align="center">
-  <strong>Professional &amp; social</strong><br/><br/>
-  <a href="https://www.linkedin.com/in/ruruorbz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Rowel Orbaneja on LinkedIn" /></a>
-  <a href="mailto:orbanejarowel@gmail.com"><img src="https://img.shields.io/badge/Email-0A2A52?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Rowel Orbaneja" /></a>
-  <a href="https://www.facebook.com/ruruorbz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Rowel Orbaneja on Facebook" /></a>
+  <strong>Have a meaningful product, a difficult system, or an ambitious idea?</strong><br />
+  <sub>I'm always open to a thoughtful conversation.</sub>
 </p>
 
 <p align="center">
-  <strong>Call or message</strong><br/><br/>
-  <a href="tel:+639760466080"><img src="https://img.shields.io/badge/Phone-%2B63_976_046_6080-011D3D?style=flat-square" alt="Call Rowel Orbaneja at +63 976 046 6080" /></a>
+  <a href="mailto:orbanejarowel@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-07111F?style=for-the-badge&amp;logo=gmail&amp;logoColor=F18F6D" alt="Email Rowel Orbaneja" /></a>
+  <a href="https://www.linkedin.com/in/ruruorbz"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Rowel Orbaneja on LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <a href="tel:+639760466080"><img src="https://img.shields.io/badge/Phone-%2B63_976_046_6080-07111F?style=flat-square&amp;logo=phonepe&amp;logoColor=F18F6D" alt="Call Rowel Orbaneja at +63 976 046 6080" /></a>
   <a href="https://wa.me/639760466080"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&amp;logo=whatsapp&amp;logoColor=white" alt="Message Rowel Orbaneja on WhatsApp" /></a>
   <a href="viber://chat?number=%2B639760466080"><img src="https://img.shields.io/badge/Viber-7360F2?style=flat-square&amp;logo=viber&amp;logoColor=white" alt="Message Rowel Orbaneja on Viber" /></a>
+  <a href="https://www.facebook.com/ruruorbz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Rowel Orbaneja on Facebook" /></a>
 </p>
+
+<p align="center"><sub>Based in the Philippines &nbsp;&bull;&nbsp; Building across mobile, web, backend, and cloud</sub></p>
